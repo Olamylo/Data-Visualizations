@@ -8,6 +8,8 @@ https://datastudio.google.com/embed/reporting/d8a698a4-36a2-416f-9c4f-41b2ac8370
 
 
 
+
+
 Big Tech Companies Stock Price History
 https://app.powerbi.com/links/gUqwlwQ5as?ctid=19e317e6-5372-45d9-ab87-8067bb4cbce6&pbi_source=linkShare&bookmarkGuid=cf140413-caa9-421c-a44f-ad2fb51b5e64
 
